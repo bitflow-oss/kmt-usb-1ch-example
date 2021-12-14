@@ -3,5 +3,5 @@
 ## Commands:  
 1. OFF command: FF 01 00 (HEX) or 255 1 0 (DEC)  
 2. ON command: FF 01 01 (HEX) or 255 1 1 (DEC)  
-3. Status request command: FF 01 03 (HEX) or 255 1 3  
+3. Status request command: FF 01 03 (HEX) or 255 1 3 (DEC)  
 + FF 01 xx - Reply from relay where xx is status: 01 - Relay is ON, 00 - Relay is OFF  
