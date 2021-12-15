@@ -1,4 +1,4 @@
-# KMtronic One Channel USB Relay Controller control example
+# KMtronic One Channel USB Relay control example
 ![product_377-500x500](https://user-images.githubusercontent.com/13836042/146020121-a9e9f9c2-6f32-40dc-99d6-f68624ed4116.jpg)  
 ## Commands:  
 1. OFF command: FF 01 00 (HEX) or 255 1 0 (DEC)  
