@@ -26,6 +26,10 @@
             </wf:Panel>
         </WindowsFormsHost>
         <Label x:Name="label3" Content="Label" HorizontalAlignment="Left" Height="31" Margin="27,105,0,0" VerticalAlignment="Top" Width="210" Grid.ColumnSpan="2"/>
+        <Label x:Name="label4" Content="Label" HorizontalAlignment="Left" Margin="18,191,0,0" VerticalAlignment="Top" Height="26" Width="297"  Grid.Column="1"/>
+        <WindowsFormsHost Grid.Column="1" Margin="18,217,421,161">
+            <wf:Panel x:Name="panel2" BackColor="Black" Height="51" Width="100"/>
+        </WindowsFormsHost>
 
     </Grid>
 </Window>
